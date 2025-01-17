@@ -48,8 +48,8 @@
 - [Getting Started](#-getting-started)
 - [Application Usage](#-application-usage)
 - [State Flow Diagram](#-state-flow-diagram)
-- [Contributing](#%F0%9F%A4%9D-contributing)
-- [License](#%F0%9F%93%9C-license)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
