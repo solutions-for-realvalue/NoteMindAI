@@ -42,7 +42,7 @@
 
 ## 📖 Table of Contents
 
-- [Demo](#-demo)
+<!-- - [Demo](#-demo) -->
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [Getting Started](#-getting-started)
@@ -53,11 +53,11 @@
 
 ---
 
-## 🌐 Demo
+<!-- ## 🌐 Demo
 
 Check out the live application here: [NoteMind AI](https://notemindai.onrender.com/)
 
----
+--- -->
 
 ## 🚀 Features
 
