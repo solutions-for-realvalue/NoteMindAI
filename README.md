@@ -34,7 +34,7 @@
 
 ---
 
-## 📖 Description
+## 🌟 Description
 
 **NoteMind AI** is a next-generation note-taking application that integrates AI to revolutionize how users capture, organize, and utilize their notes. Designed for professionals, students, and anyone in between, it combines a rich text editor with AI functionalities to offer an unmatched note-taking experience.
 
