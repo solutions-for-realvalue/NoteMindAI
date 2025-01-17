@@ -72,7 +72,7 @@ Check out the live application here: [NoteMind AI](https://notemindai.onrender.c
 
 ---
 
-## 🛠️ Technologies Used
+## 🔨 Technologies Used
 
 - **Backend**: Node.js, Express.js
 - **Frontend**: Rich text editing using Quill.js
